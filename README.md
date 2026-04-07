@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Guilherme Garibaldi
 
-🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (em andamento)
+🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (em andamento)  
 💻 Desenvolvedor **Backend** apaixonado por tecnologia e arquitetura de sistemas  
 🚀 Focado em construir aplicações escaláveis, performáticas e bem estruturadas  
 
@@ -20,27 +20,32 @@ Busco evoluir constantemente minhas habilidades, estudando boas práticas, arqui
 - Kotlin 💜
 - JavaScript ⚡
 - PHP 🐘
+- HTML 🧱
+- CSS 🎨
 
-### ⚙️ Backend & Ferramentas
+---
+
+### ⚙️ Frameworks & Backend
 - Node.js 🌐
+- Express.js 🚀
+- Spring Boot 🌱
+- Ktor ⚡
 - APIs REST 🔗
-- Sistemas escaláveis 📈
 - Microsserviços 🧩
+
+---
 
 ### 🗄️ Banco de Dados
 - MySQL 🗃️
 - MariaDB 🗄️
 - PostgreSQL 🐘
-- Redis 🔥
-
-### 📡 Mensageria & Integração
-- RabbitMQ 🐰
+- MongoDB 🍃
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devguitho&show_icons=true&theme=tokyonight)
+### 📡 Mensageria & Cache de dados
+- RabbitMQ 🐰
+- Redis 🔥
 
 ---
 
